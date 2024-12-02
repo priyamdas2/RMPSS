@@ -15,4 +15,5 @@ library(RMPSS)
 
 ## CITATION
 
-Das, Priyam,"Recursive Modified Pattern Search on High-dimensional Simplex : A  Blackbox Optimization Technique", https://arxiv.org/abs/1604.08636 .
+Das, P. Recursive Modified Pattern Search on High-Dimensional Simplex : A Blackbox Optimization Technique.
+Sankhya B 83 (Suppl 2), 440–483 (2021). https://doi.org/10.1007/s13571-020-00236-9
