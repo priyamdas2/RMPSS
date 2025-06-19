@@ -18,6 +18,8 @@ You can install the development version of the package directly from GitHub usin
 ```r
 # install.packages("devtools")
 devtools::install_github("priyamdas2/RMPSS")
+library(RMPSS)
+?RMPSS_opt
 ```
 
 ## ⚙️ Function Overview
