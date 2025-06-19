@@ -1,0 +1,21 @@
+Package: RMPSS
+Type: Package
+Title: RMPSS Optimization on the Simplex via C++
+Version: 0.1.0
+Authors@R: 
+    person(given = "Priyam", 
+           family = "Das", 
+           email = "pdasvcu@gmail.com", 
+           role = c("aut", "cre"))
+Description: 
+    Provides a C++ implementation of the Recursive Modified Pattern Search on the Simplex (RMPSS) 
+    optimization algorithm. This function is designed for high-dimensional constrained optimization 
+    problems where the solution lies in the probability simplex. The user provides an objective 
+    function from R, and the C++ routine handles non-convex optimization using systematic coordinate-wise 
+    positive and negative movements. Implemented purely in C++ with Rcpp for seamless R integration.
+License: GPL-3
+Encoding: UTF-8
+Imports: Rcpp
+LinkingTo: Rcpp
+RoxygenNote: 7.2.3
+
