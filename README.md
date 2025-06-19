@@ -2,6 +2,15 @@
 
 **Recursive Modified Pattern Search on the Simplex (RMPSS)** is a C++-based optimization routine implemented for high-dimensional, non-convex objective functions defined on the probability simplex. This package provides a fast, derivative-free optimization method accessible in R via `Rcpp`.
 
+### 📚 Citation
+
+If you use this method in your research, please cite:
+
+> Das, Priyam (2021).  
+> *Recursive Modified Pattern Search on High-Dimensional Simplex: A Blackbox Optimization Technique*.  
+> Sankhya B, 83 (Suppl 2), 440–483.  
+> https://doi.org/10.1007/s13571-020-00236-9
+
 ## 🔧 Installation
 
 You can install the development version of the package directly from GitHub using:
